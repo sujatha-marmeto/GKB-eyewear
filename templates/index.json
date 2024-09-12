@@ -1,0 +1,118 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Sophisticated and Stylish Present",
+            "heading_size": "h1"
+          }
+        },
+        "text_Nn6bei": {
+          "type": "text",
+          "settings": {
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi.",
+            "text_style": "subtitle"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Subcribe",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "Shop Now",
+            "button_link_2": "#",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_Nn6bei",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/0451ed9ca2ba65cd4e9ed32e417ea03b.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-5",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "shop_by_categories_3NUkg6": {
+      "type": "shop-by-categories",
+      "blocks": {
+        "category_tab_mLqkgD": {
+          "type": "category_tab",
+          "settings": {
+            "tab_title": "Men",
+            "image_1": "shopify:\/\/shop_images\/Ellipse_377.png",
+            "image_1_title": "Sun Glasses",
+            "image_2": "shopify:\/\/shop_images\/Ellipse_377_1.png",
+            "image_2_title": "EyeGalsses",
+            "image_3": "shopify:\/\/shop_images\/Ellipse_377_2.png",
+            "image_3_title": "Reading glasses",
+            "image_4": "shopify:\/\/shop_images\/Ellipse_377_3.png",
+            "image_4_title": "Contact lens",
+            "image_5": "shopify:\/\/shop_images\/Ellipse_377_4.png",
+            "image_5_title": "Computer Glass",
+            "image_6": "shopify:\/\/shop_images\/Ellipse_377_5.png",
+            "image_6_title": "Accessories"
+          }
+        },
+        "category_tab_yydDgG": {
+          "type": "category_tab",
+          "settings": {
+            "tab_title": "Women",
+            "image_1": "shopify:\/\/shop_images\/city-woman-fashion_925x_2x_745c0b0a-b58e-41fa-a483-1c1b51c0896f.jpg",
+            "image_1_title": "SunGlasses",
+            "image_2": "shopify:\/\/shop_images\/young-hip-woman-at-carnival_925x_f6202ea5-4b6d-4aa6-ab83-7c2895715f1c.jpg",
+            "image_2_title": "Coolers",
+            "image_3": "shopify:\/\/shop_images\/young-female-models-denim_925x_356651fd-e2ab-4dd8-9b2c-c6108a6da98f.jpg",
+            "image_3_title": "Casual Glasses",
+            "image_4": "shopify:\/\/shop_images\/striped-blouse-fashion_925x_677bfe1d-6600-4076-b739-fed1857dbfc5.jpg",
+            "image_4_title": "Accessories",
+            "image_5_title": "",
+            "image_6_title": ""
+          }
+        },
+        "category_tab_nmjNP7": {
+          "type": "category_tab",
+          "settings": {
+            "tab_title": "Kids",
+            "image_1": "shopify:\/\/shop_images\/9e55e379f056634b9619ae1caedb0f6b8f.rsquare.w600.jpg",
+            "image_1_title": "Reading Glasses",
+            "image_2": "shopify:\/\/shop_images\/528979_1680591570521.jpg",
+            "image_2_title": "Computer glasses",
+            "image_3": "shopify:\/\/shop_images\/FIRADA-Fashion-Design-Comfortable-Eyeglasses-Vintage-Double-Beam-Magnet-Eyewear-Business-Prescription-Glasses-Frame-Men-T93002Y.webp",
+            "image_3_title": "kids glasses",
+            "image_4_title": "",
+            "image_5_title": "",
+            "image_6_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "category_tab_mLqkgD",
+        "category_tab_yydDgG",
+        "category_tab_nmjNP7"
+      ],
+      "settings": {
+        "section_title": "<p>Shop By Categories <\/p>"
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "shop_by_categories_3NUkg6"
+  ]
+}
